@@ -1,0 +1,23 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Magic90/blog.git"
+  },
+  "author": "Magic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Magic90/blog/issues"
+  },
+  "homepage": "https://github.com/Magic90/blog#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4"
+  }
+}
